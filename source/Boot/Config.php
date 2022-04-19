@@ -26,7 +26,6 @@ define("CONF_PASSWD_OPTION", ["cost" => 10]);
  * SEM BARRA NO FINAL
  */
 
-//define("ROOT", "http://www.localhost/processo-dental-uni");
 define("ROOT", "http://www.localhost:8082/ddd");
 
 /**
